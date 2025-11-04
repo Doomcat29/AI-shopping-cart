@@ -3,4 +3,3 @@ This project is for IT 254. The idea is to have a camera hooked up to an arduino
 
 [![Watch the video](https://img.youtube.com/vi/CY9KmjfXZPk/maxresdefault.jpg)](https://youtu.be/CY9KmjfXZPk)
 
-### [Watch this video on YouTube](https://youtu.be/CY9KmjfXZPk)
